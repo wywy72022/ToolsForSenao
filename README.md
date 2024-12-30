@@ -15,8 +15,8 @@
 6. 最終用戶看到或聽到回應。
 
 ## 主要使用的GCP服務：
-Google Cloud Speech-to-Text API
-Google Cloud Text-to-Speech API
-Google Cloud Vision API
-Google Cloud Functions
-Google Cloud Storage
+- Google Cloud Speech-to-Text API
+- Google Cloud Text-to-Speech API
+- Google Cloud Vision API
+- Google Cloud Functions
+- Google Cloud Storage
